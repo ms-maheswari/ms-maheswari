@@ -13,23 +13,23 @@
 <p align="left">
 <a href="https://www.codechef.com/users/mahes7439" target="_blank">
   <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg"
-    alt="CodeChef" height="30" width="40" padding-right="20"/>
+    alt="CodeChef" height="30"  padding-right="20"/>
 </a>
 <a href="https://www.hackerrank.com/profile/mahes7439" target="_blank">
   <img align="center" src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png"
-    alt="HackerRank" height="30" width="40"/>
+    alt="HackerRank" width="40"/>
 </a>
 <a href="https://leetcode.com/mahes7439/" target="_blank">
   <img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png"
-    alt="LeetCode" height="30" width="40" />
+    alt="LeetCode" height="30"  />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/mahesu2sh" target="_blank">
     <img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png"
-    alt="GeeksforGeeks" height="30" width="40"/>
+    alt="GeeksforGeeks" height="30" />
 </a>
 <a href="https://stackoverflow.com/users/22939092/maheswari-m" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png"
-    alt="Stack Overflow" height="30" width="40"/>
+    alt="Stack Overflow" height="30" />
 </a>
 
 </p>
