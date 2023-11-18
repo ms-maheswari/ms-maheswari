@@ -32,7 +32,7 @@
 </a>
 <a href="https://stackoverflow.com/users/22939092/maheswari-m" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg"
-    alt="Stack Overflow" height="30" width="40" style="background-color: #f0f0f0; padding: 5px; border-radius: 50%;" />
+    alt="Stack Overflow" height="30" width="40" style="color: #f0f0f0; padding: 5px; border-radius: 50%;" />
 </a>
 </p>
 
