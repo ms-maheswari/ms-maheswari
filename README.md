@@ -1,3 +1,4 @@
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 <h1 align="center">Hi 👋, I'm MAHESWARI</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
@@ -44,7 +45,7 @@
     </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+   
 
 <p align="left">
   <i class="fab fa-html5 fa-2x"></i>
