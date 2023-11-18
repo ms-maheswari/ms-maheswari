@@ -51,7 +51,7 @@
     <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="React.js" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/nodejs-logo.png" alt="Node.js" width="40" height="40"/>
+    <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="MongoDB" width="40" height="40"/>
