@@ -17,7 +17,7 @@
 </a>
 <a href="https://www.hackerrank.com/profile/mahes7439" target="_blank">
   <img align="center" src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png"
-    alt="HackerRank" width="40"/>
+    alt="HackerRank" height="30"/>
 </a>
 <a href="https://leetcode.com/mahes7439/" target="_blank">
   <img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png"
