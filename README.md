@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/maheswari-m-00b53a247" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-<a href="https://www.codechef.com/users/mahes7439" target="_blank" style="background-color: #f0f0f0; padding: 5px; border-radius: 50%;">
+<a href="https://www.codechef.com/users/mahes7439" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
     alt="CodeChef" height="30" width="40" />
 </a>
@@ -29,6 +29,10 @@
 <a href="https://auth.geeksforgeeks.org/user/mahesu2sh" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg"
     alt="GeeksforGeeks" height="30" width="40"/>
+</a>
+<a href="https://stackoverflow.com/users/22939092/maheswari-m" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg"
+    alt="Stack Overflow" height="30" width="40" style="background-color: #f0f0f0; padding: 5px; border-radius: 50%;" />
 </a>
 </p>
 
