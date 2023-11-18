@@ -54,10 +54,10 @@
     <img src="https://cdn.freebiesupply.com/logos/thumbs/1x/nodejs-logo.png" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/216/509/png-transparent-mongodb-node-js-npm-open-source-model-angularjs-leaf-leaf-logo-grass-thumbnail.png" alt="MongoDB" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
+    <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySQL" width="40" height="40"/>
   </a>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
          <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40" height="40"/>
@@ -65,9 +65,6 @@
     </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a> 
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
     </a> 
 </p>
