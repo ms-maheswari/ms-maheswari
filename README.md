@@ -16,7 +16,7 @@
     alt="CodeChef" height="30"  padding-right="20"/>
 </a>
 <a href="https://www.hackerrank.com/profile/mahes7439" target="_blank">
-  <img align="center" src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png"
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"
     alt="HackerRank" height="30"/>
 </a>
 <a href="https://leetcode.com/mahes7439/" target="_blank">
