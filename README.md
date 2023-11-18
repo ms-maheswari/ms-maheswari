@@ -19,11 +19,11 @@
     alt="CodeChef" height="30" width="40" />
 </a>
 <a href="https://www.hackerrank.com/profile/mahes7439" target="_blank">
-   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg"
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg"
     alt="HackerRank" height="30" width="40"/>
 </a>
 <a href="https://leetcode.com/mahes7439/" target="_blank">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg"
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg"
     alt="LeetCode" height="30" width="40" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/mahesu2sh" target="_blank">
@@ -34,6 +34,7 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg"
     alt="Stack Overflow" height="30" width="40"/>
 </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
