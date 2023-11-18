@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.codechef.com/users/mahes7439" target="_blank">
   <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg"
-    alt="CodeChef" height="30" width="40" padding="20"/>
+    alt="CodeChef" height="30" width="40" padding-right="20"/>
 </a>
 <a href="https://www.hackerrank.com/profile/mahes7439" target="_blank">
   <img align="center" src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png"
