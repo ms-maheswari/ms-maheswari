@@ -19,8 +19,8 @@
     alt="CodeChef" height="30" width="40" />
 </a>
 <a href="https://www.hackerrank.com/profile/mahes7439" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-    alt="HackerRank" height="30" width="40" />
+   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg"
+    alt="HackerRank" height="30" width="40"/>
 </a>
 <a href="https://leetcode.com/mahes7439/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
