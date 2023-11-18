@@ -27,7 +27,7 @@
     alt="LeetCode" height="30" width="40" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/mahesu2sh" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg"
+    <img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png"
     alt="GeeksforGeeks" height="30" width="40"/>
 </a>
 <a href="https://stackoverflow.com/users/22939092/maheswari-m" target="_blank">
