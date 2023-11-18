@@ -16,7 +16,7 @@
   </a>
 <a href="https://www.codechef.com/users/mahes7439" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-    alt="CodeChef" height="30" width="40" />
+    alt="CodeChef" height="30" width="40" style="background-color: #f0f0f0; padding: 5px; border-radius: 50%;"/>
 </a>
 <a href="https://www.hackerrank.com/profile/mahes7439" target="_blank">
    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg"
