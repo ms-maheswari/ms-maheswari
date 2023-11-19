@@ -15,7 +15,7 @@
   <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg"
     alt="CodeChef" height="30" width="50"/>
 </a>
-<a href="https://www.hackerrank.com/profile/mahes7439" target="_blank">
+<a href="https://www.hackerrank.com/profile/maheswarim_ug_21" target="_blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png"
     alt="HackerRank" height="30" width="50"/>
 </a>
