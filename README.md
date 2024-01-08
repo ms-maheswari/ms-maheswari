@@ -27,9 +27,9 @@
     <img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png"
     alt="GeeksforGeeks" height="30" width="50"/>
 </a>
-<a href="https://stackoverflow.com/users/22939092/maheswari-m" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/1200px-Stack_Overflow_icon.svg.png"
-    alt="Stack Overflow" height="30" width="50"/>
+<a href="https://www.codingninjas.com/studio/profile/ms_maheswari" target="_blank">
+  <img align="center" src="https://files.codingninjas.com/new-cn-logos-32028.svg"
+    alt="Coding Ninjas" height="30" width="50"/>
 </a>
 
 </p>
