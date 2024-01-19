@@ -15,7 +15,7 @@
   <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg"
     alt="CodeChef" height="30" width="50"/>
 </a>
-<a href="https://leetcode.com/mahes7439/" target="_blank">
+<a href="https://leetcode.com/ms-maheswari/" target="_blank">
   <img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png"
     alt="LeetCode" height="30" width="50"/>
 </a>
