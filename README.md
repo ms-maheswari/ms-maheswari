@@ -50,6 +50,10 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="MongoDB" width="40" height="40"/>
   </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png" alt="MongoDB" width="40" height="40"/>
+  </a>
+  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySQL" width="40" height="40"/>
   </a>
