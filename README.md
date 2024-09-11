@@ -68,14 +68,15 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ms-maheswari&show_icons=true&locale=en&layout=compact" alt="ms-maheswari" style="width: 45%;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ms-maheswari&theme=dark&show_icons=true&locale=en" alt="ms-maheswari" style="width: 45%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ms-maheswari&show_icons=true&locale=en&layout=compact" alt="ms-maheswari" style="width: 25%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ms-maheswari&theme=dark&show_icons=true&locale=en" alt="ms-maheswari" style="width: 25%;"/>
 </div>
 
+<div>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ms-maheswari&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ms-maheswari?theme=dark&font=Comic%20Neue&ext=contest)](https://leetcode.com/u/ms-maheswari/)
 
-
+</div>
