@@ -19,18 +19,17 @@
 
 ## Connect with me:
 
-<div align="center">
+<div align="left">
   <a href="https://www.codechef.com/users/mahes7439" target="_blank">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="40" height="40" style="margin: 0 15px;" />
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" width="40" height="40"  />
   </a>
+  &nbsp; &nbsp; 
   <a href="https://leetcode.com/ms-maheswari/" target="_blank">
-    <img src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="LeetCode" width="40" height="40" style="margin: 0 15px;" />
+    <img src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="LeetCode" width="40" height="40" />
   </a>
+  &nbsp; &nbsp; 
   <a href="https://auth.geeksforgeeks.org/user/msmaheswari" target="_blank">
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="GeeksforGeeks" width="40" height="40" style="margin: 0 15px;" />
-  </a>
-  <a href="https://www.codingninjas.com/studio/profile/ms_maheswari" target="_blank">
-    <img src="https://files.codingninjas.com/new-cn-logos-32028.svg" alt="Coding Ninjas" width="40" height="40" style="margin: 0 15px;" />
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="GeeksforGeeks" width="40" height="40"  />
   </a>
 </div>
 
