@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm MAHESWARI</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EDF7D7&width=435&lines=A+passionate+MERN+Stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F736A5&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Developer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+;Passionate+About+Coding+%3C%2F%3E;Curious+Learner+%F0%9F%93%9A;Problem+Solver+)](https://git.io/typing-svg)
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ms-maheswari&label=Profile%20views&color=0e75b6&style=flat" alt="ms-maheswari" />
 </p>
