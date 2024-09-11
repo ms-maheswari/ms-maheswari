@@ -74,5 +74,6 @@
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ms-maheswari&theme=dark&hide_border=false" alt="GitHub Streak" />
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/ms-maheswari?theme=dark&font=Comic%20Neue&ext=contest)](https://leetcode.com/u/ms-maheswari/)
+  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ms-maheswari?theme=dark&font=Comic%20Neue&ext=contest)](https://leetcode.com/u/ms-maheswari/)
 </div>
