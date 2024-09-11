@@ -41,11 +41,11 @@
 
 ## I code in
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=c,java,html,css,js,mysql,tailwindcss,mongodb,express,react,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/ms-maheswari"><img src="https://skillicons.dev/icons?i=c,java,html,css,js,mysql,tailwindcss,mongodb,express,react,nodejs"> </a> </p>
 
 ## IDE and Tools I Use
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,git,eclipse,github"> </a> </p>
+<p align="left"> <a href="https://github.com/ms-maheswari"><img src="https://skillicons.dev/icons?i=vscode,git,eclipse,github"> </a> </p>
 
 ## 📊 GitHub Stats:
 
