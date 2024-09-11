@@ -29,7 +29,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo5SpVM6kE84kgy6qall1mMwvumSDAfivj2g&usqp=CAU" alt="HTML5" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -64,15 +64,14 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
+<!-- Create a table to display both rows of stats -->
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ms-maheswari&theme=dark&show_icons=true&locale=en" alt="ms-maheswari" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ms-maheswari&show_icons=true&locale=en&layout=compact" alt="ms-maheswari" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ms-maheswari&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ms-maheswari&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=ms-maheswari&theme=dark&hide_border=false" alt="GitHub Streak" /></td>
+    <td><img src="https://leetcard.jacoblin.cool/ms-maheswari?theme=dark&font=Comic%20Neue&ext=contest" alt="LeetCode Stats" /></td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ms-maheswari&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ms-maheswari?theme=dark&font=Comic%20Neue&ext=contest)](https://leetcode.com/u/ms-maheswari/)
