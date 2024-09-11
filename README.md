@@ -63,10 +63,7 @@
 </p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=ms-maheswari&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://leetcard.jacoblin.cool/ms-maheswari?theme=dark&font=Comic%20Neue&ext=contest" alt="LeetCode Stats" />
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ms-maheswari&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-    <td><img src="https://leetcard.jacoblin.cool/ms-maheswari?theme=dark&font=Comic%20Neue&ext=contest" alt="LeetCode Stats" /></td>
-  </tr>
-</table>
+
