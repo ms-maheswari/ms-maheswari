@@ -72,7 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ms-maheswari&theme=dark&show_icons=true&locale=en" alt="ms-maheswari"/>
 </div>
 
-<div>
+<div style="display: flex; justify-content: space-around;">
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ms-maheswari&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
