@@ -16,8 +16,9 @@
 
 - 📫 How to reach me **mahes7439@gmail.com**
 
+- 🔭 Here is my portfolio
 
-## Connect with me:
+## Coding profile 💻:
 
 <div align="left">
   <a href="https://www.codechef.com/users/mahes7439" target="_blank">
@@ -46,10 +47,14 @@
 ## 📊 GitHub Stats:
 
 <a href="https://github.com/ms-maheswari">
-  <img alt="MS Maheswari GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ms-maheswari&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=2E3440" height="192px"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ms-maheswari&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
 </a>
+<a href="https://github.com/ms-maheswari">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ms-maheswari&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
 <a href="https://github.com/ms-maheswari">
-  <img alt="MS Maheswari Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-maheswari&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=2E3440" height="192px"/>
+  <img alt="MS Maheswari Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-maheswari&langs_count=8&layout=compact&theme=gruvbox&hide_border=true&bg_color=151515" height="192px"/>
 </a>
 
-<img src="https://leetcard.jacoblin.cool/ms-maheswari?theme=nord&font=Comic%20Neue&ext=contest" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/ms-maheswari?theme=gruvbox&bg_color=151515&font=Comic%20Neue&ext=contest" alt="LeetCode Stats" />
