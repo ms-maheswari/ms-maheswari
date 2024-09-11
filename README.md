@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm MAHESWARI</h1>
 <h3 align="center">A passionate MERN Stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ms-maheswari&label=Profile%20views&color=0e75b6&style=flat" alt="ms-maheswari" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ms-maheswari&label=Profile%20views&color=0e75b6&style=flat" alt="ms-maheswari" />
+</p>
 
 - 🌱 I’m currently learning **MERN stack**
 
@@ -11,27 +13,22 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/mahes7439" target="_blank">
-  <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg"
-    alt="CodeChef" height="30" width="50"/>
-</a>
-<a href="https://leetcode.com/ms-maheswari/" target="_blank">
-  <img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png"
-    alt="LeetCode" height="30" width="50"/>
-</a>
-<a href="https://auth.geeksforgeeks.org/user/msmaheswari" target="_blank">
-    <img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png"
-    alt="GeeksforGeeks" height="30" width="50"/>
-</a>
-<a href="https://www.codingninjas.com/studio/profile/ms_maheswari" target="_blank">
-  <img align="center" src="https://files.codingninjas.com/new-cn-logos-32028.svg"
-    alt="Coding Ninjas" height="30" width="50"/>
-</a>
-
+  <a href="https://www.codechef.com/users/mahes7439" target="_blank">
+    <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="30" width="50"/>
+  </a>
+  <a href="https://leetcode.com/ms-maheswari/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" alt="LeetCode" height="30" width="50"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/msmaheswari" target="_blank">
+    <img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="GeeksforGeeks" height="30" width="50"/>
+  </a>
+  <a href="https://www.codingninjas.com/studio/profile/ms_maheswari" target="_blank">
+    <img align="center" src="https://files.codingninjas.com/new-cn-logos-32028.svg" alt="Coding Ninjas" height="30" width="50"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo5SpVM6kE84kgy6qall1mMwvumSDAfivj2g&usqp=CAU" alt="HTML5" width="40" height="40"/>
   </a>
@@ -65,12 +62,17 @@
     </a> 
 </p>
 
-# 📊 GitHub Stats :
+<h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ms-maheswari&show_icons=true&locale=en&layout=compact" alt="ms-maheswari" /></p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ms-maheswari&theme=dark&show_icons=true&locale=en" alt="ms-maheswari" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ms-maheswari&show_icons=true&locale=en&layout=compact" alt="ms-maheswari" /></td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ms-maheswari&theme=dark&show_icons=true&locale=en" alt="ms-maheswari" /></p>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ms-maheswari&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ms-maheswari&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ms-maheswari?theme=dark&font=Comic%20Neue&ext=contest)](https://leetcode.com/u/ms-maheswari/)
