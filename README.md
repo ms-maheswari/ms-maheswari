@@ -45,11 +45,11 @@
 
 ## 📊 GitHub Stats:
 
- <a href="https://github.com/ms-maheswari">
-  <img alt="MS Maheswari GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ms-maheswari&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=2E3440&title_color=D8DEE9&icon_color=88C0D0" height="192px"/>
+<a href="https://github.com/ms-maheswari">
+  <img alt="MS Maheswari GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ms-maheswari&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=2E3440" height="192px"/>
 </a>
 <a href="https://github.com/ms-maheswari">
-  <img alt="MS Maheswari Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-maheswari&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=2E3440&title_color=D8DEE9&icon_color=88C0D0" height="192px"/>
+  <img alt="MS Maheswari Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-maheswari&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=2E3440" height="192px"/>
 </a>
 
 <img src="https://leetcard.jacoblin.cool/ms-maheswari?theme=nord&font=Comic%20Neue&ext=contest" alt="LeetCode Stats" />
