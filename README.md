@@ -67,7 +67,5 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ms-maheswari?theme=dark&font=Marcellus&ext=contest)](https://leetcode.com/u/ms-maheswari/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ms-maheswari&show_icons=true&locale=en" alt="ms-maheswari" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ms-maheswari&" alt="ms-maheswari" /></p>
 
