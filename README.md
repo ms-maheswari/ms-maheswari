@@ -52,6 +52,6 @@
   <img alt="MS Maheswari Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-maheswari&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=2d2d2d&title_color=ffffff&icon_color=ff6347" height="192px"/>
 </a>
 
-  <img src="https://leetcard.jacoblin.cool/ms-maheswari?theme=dark&font=Comic%20Neue&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/ms-maheswari?theme=nord&font=Comic%20Neue&ext=contest" alt="LeetCode Stats" />
 
 
