@@ -41,7 +41,7 @@
 
 ## I code in
 
-<p align="left"> <a href="https://github.com/ms-maheswari"><img src="https://skillicons.dev/icons?i=c,java,html,css,js,mysql,tailwindcss,mongodb,express,react,nodejs"> </a> </p>
+<p align="left"> <a href="https://github.com/ms-maheswari"><img src="https://skillicons.dev/icons?i=c,java,html,css,js,mysql,tailwindcss,mongodb,express,react,nodejs,python"> </a> </p>
 
 ## IDE and Tools I Use
 
