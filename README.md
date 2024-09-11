@@ -18,22 +18,13 @@
 
 ## Connect with me:
 
-<p align="left">
- <a href="https://leetcode.com/ms-maheswari/" target="_blank">
-  <img align="center" src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png"
-    alt="LeetCode" height="30" width="50"/>
-</a>
-  
- <a href="https://auth.geeksforgeeks.org/user/msmaheswari" target="_blank">
-    <img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png"
-    alt="GeeksforGeeks" height="30" width="50"/>
-</a>
+## Connect with me:
 
- <a href="https://www.codechef.com/users/mahes7439" target="_blank">
-  <img align="center" src="https://cdn.codechef.com/images/cc-logo.svg"
-    alt="CodeChef" height="30" width="50"/>
-</a>
-</p>
+[![CodeChef](https://cdn.codechef.com/images/cc-logo.svg)](https://www.codechef.com/users/mahes7439) &nbsp; &nbsp; 
+[![LeetCode](https://assets.leetcode.com/users/leetcode/avatar_1568224780.png)](https://leetcode.com/ms-maheswari/) &nbsp; &nbsp;
+[![GeeksforGeeks](https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png)](https://auth.geeksforgeeks.org/user/msmaheswari) &nbsp; &nbsp;
+[![Coding Ninjas](https://files.codingninjas.com/new-cn-logos-32028.svg)](https://www.codingninjas.com/studio/profile/ms_maheswari)
+
 
 
 ## I code in
