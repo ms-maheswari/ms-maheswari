@@ -19,7 +19,7 @@
 - 🔭 Here is my portfolio <a href="https://msmaheswari-fe4z71g9x-msmaheswaris-projects.vercel.app" target="_blank">ms-maheswari</a>
 
 
-## Coding profile 💻:
+## Coding profile 💻
 
 <div align="left">
   <a href="https://www.codechef.com/users/mahes7439" target="_blank">
