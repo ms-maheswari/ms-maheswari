@@ -46,10 +46,10 @@
 ## 📊 GitHub Stats:
 
   <a href="https://github.com/ms-maheswari">
-  <img alt="MS Maheswari GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ms-maheswari&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="MS Maheswari GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ms-maheswari&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=2d2d2d&title_color=ffffff&icon_color=ff6347" height="192px"/>
 </a>
 <a href="https://github.com/ms-maheswari">
-  <img alt="MS Maheswari Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-maheswari&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="MS Maheswari Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ms-maheswari&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=2d2d2d&title_color=ffffff&icon_color=ff6347" height="192px"/>
 </a>
 
   <img src="https://leetcard.jacoblin.cool/ms-maheswari?theme=dark&font=Comic%20Neue&ext=contest" alt="LeetCode Stats" />
