@@ -45,7 +45,7 @@
 
 ## IDE and Tools I Use
 
-<p align="left"> <a href="https://github.com/ms-maheswari"><img src="https://skillicons.dev/icons?i=vscode,git,eclipse,github"> </a> </p>
+<p align="left"> <a href="https://github.com/ms-maheswari"><img src="https://skillicons.dev/icons?i=vscode,git,github"> </a> </p>
 
 ## 📊 GitHub Stats:
 
