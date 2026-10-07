@@ -10,13 +10,12 @@
   <img src="https://komarev.com/ghpvc/?username=ms-maheswari&label=Profile%20views&color=0e75b6&style=flat" alt="ms-maheswari" />
 </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 🤖 I am passionate about learning **Machine Learning**
 
 - 🔭 Here is my portfolio <a href="https://msmaheswari-fe4z71g9x-msmaheswaris-projects.vercel.app" target="_blank">ms-maheswari</a>
   
-- 💬 Ask me about **HTML, CSS, Javascript, React**
 
 - 📫 How to reach me **mahes7439@gmail.com**
 
